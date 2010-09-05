@@ -1,0 +1,17 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=AUR Updates
+Type=Service
+ServiceTypes=Plasma/Applet
+Icon=
+X-Plasma-API=python
+X-Plasma-MainScript=code/main.py
+X-KDE-PluginInfo-Author=Felix Rohrbach
+X-KDE-PluginInfo-Email=fxrh@gmx.de
+X-KDE-PluginInfo-Name=aur-updates
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=Online-Services
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
